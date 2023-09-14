@@ -39,6 +39,11 @@ tbody th, tfoot th {
     border-radius: 50px;
 }
 
+.btn:hover {
+    background-color: #ff1d0dcd;
+
+}
+
 tfoot td:nth-last-child(n), tfoot th:nth-last-child(n){
     border-color: red;
     border: none;
