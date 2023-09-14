@@ -1,0 +1,45 @@
+body {
+    background-color: #020d2d;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    color: #ff1e0d
+}
+
+.card {
+    background-color: #020d2d!important;
+    color: white;
+    padding: 20px 40px;
+    border-radius: 20px;
+    border-color: #212a47;
+}
+
+table {
+    text-align: center;
+    vertical-align: middle!important;
+}
+
+th, td {
+    background-color: #020d2d!important;
+    color: white!important;
+    padding: 20px 10px !important;
+    border-color: #212a47;
+    font-weight: 400!important;
+}
+
+tbody th, tfoot th {
+    text-align: left;
+}
+
+.btn {
+    color: white!important;
+    background-color: #ff1e0d;
+    border-radius: 50px;
+}
+
+tfoot td:nth-last-child(n), tfoot th:nth-last-child(n){
+    border-color: red;
+    border: none;
+}
