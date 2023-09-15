@@ -41,7 +41,6 @@ tbody th, tfoot th {
 
 .btn:hover {
     background-color: #ff1d0dcd;
-
 }
 
 tfoot td:nth-last-child(n), tfoot th:nth-last-child(n){
